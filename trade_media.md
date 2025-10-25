@@ -1,4 +1,4 @@
-## Fast-Moving Consumer Goods & Media                                                                                              
+## Trade & Media                                                                                              
 
 | **App/Project Name** | **Description** | **Repository** | **Web App / Dashboards** |
 | :--- | :--- | :--- | :--- |
