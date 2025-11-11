@@ -1,7 +1,8 @@
 ## Business & Innovation                                                                                              
 
-| **Project Name** | **Description** | **Repository** | **Details/ Web App / Dashboards** |
+| **Project Name** | **Description** | **Repository** | **Details / Web App / Dashboards** |
 | :--- | :--- | :--- | :--- |
+| Rossman II | In-Sample Prediction Pipeline | [RossmanII](https://github.com/temidataspot/rosmann-ii-prediction) | [![Project](https://img.shields.io/badge/Project-Details-444303)](https://github.com/temidataspot/rosmann-ii-prediction/blob/main/README.md) |
 | Rossman | Rossman Sales ETL Pipeline in Azure Data Factory | [Rossman](https://github.com/temidataspot/rossman-etl-azure) | [![Project](https://img.shields.io/badge/Project-Details-330033)](https://github.com/temidataspot/rossman-etl-azure/blob/main/README.md) [![Project](https://img.shields.io/badge/Rossman-Dashboard-247ba0)](https://app.powerbi.com/view?r=eyJrIjoiMDBlZjMwNmEtMzY3My00MWZiLTgwNmUtNGY1Mjc3YzUxODBhIiwidCI6IjVhYjI0MzA0LWY3NWItNDlkZS04Y2RkLTAyZGMyOGNkNDU5YiJ9)|
 | Telco | Predicting churn rate | [Telco Churn](https://github.com/temidataspot/telco-churn) | [![WebApp](https://img.shields.io/badge/Web%20App-Streamlit-5c0001)](https://churndata.streamlit.app/) |
 | Smart Sell | End-to-End pipeline sales forecast | [SS](https://github.com/temidataspot/project-smartsell) | [![Dashboard](https://img.shields.io/badge/Dashboard-SmartSell-004753)](https://app.powerbi.com/view?r=eyJrIjoiMDRlZTZiMTgtNzczOS00MWVjLWFhNmUtMDQ3ODdmZWU3MTIzIiwidCI6IjVhYjI0MzA0LWY3NWItNDlkZS04Y2RkLTAyZGMyOGNkNDU5YiJ9) |
