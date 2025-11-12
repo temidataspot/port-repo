@@ -1,4 +1,5 @@
-## Business & Innovation                                                                                              
+## Business & Innovation                                                                                      
+*Check out AI repo* → [![AI](https://img.shields.io/badge/Artificial-Intelligence-8F079C)](https://github.com/temidataspot/port-repo/blob/main/ai.md)
 
 | **Project Name** | **Description** | **Repository** | **Details / Web App / Dashboards** |
 | :--- | :--- | :--- | :--- |
