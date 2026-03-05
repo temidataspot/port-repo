@@ -1,5 +1,5 @@
 ## Commercial Operations                                                                                      
-*Click to check out AI repo* → [![AI](https://img.shields.io/badge/Artificial%20Intelligence-212842)](https://github.com/temidataspot/port-repo/blob/main/ai.md)
+*Click to check out AI repo* → [![AI](https://img.shields.io/badge/Artificial%20Intelligence-250e14)](https://github.com/temidataspot/port-repo/blob/main/ai.md)
 
 | **Project Name** | **Description** | **Repository** | **Details, Apps, Dashboards** |
 | :--- | :--- | :--- | :--- |
