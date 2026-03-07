@@ -2,7 +2,7 @@
 
 | **Project Name** | **Description** | **Repository** | **Web App / Dashboard** |
 | :--- | :--- | :--- | :--- |
-| England & Wales Mortality| UK's Mortality, Epidemic Analysis, & Future Predictions | [Public Health Analysis](https://github.com/temidataspot/uk-mortality) | [![WebApp](https://img.shields.io/badge/R%20Shiny%20Dashboard-004753)](https://os2u1c-prisca-joks.shinyapps.io/dashboard/) [![WebApp](https://img.shields.io/badge/React%20Dashboard-004b50)](https://uk-mortality.vercel.app/) |
+| England & Wales Mortality| UK's Mortality, Epidemic Analysis, & Future Predictions | [Public Health Analysis](https://github.com/temidataspot/uk-mortality) | [![WebApp](https://img.shields.io/badge/R%20Shiny%20Dashboard-004753)](https://os2u1c-prisca-joks.shinyapps.io/dashboard/) [![WebApp](https://img.shields.io/badge/Vercel%20Dashboard-004b50)](https://uk-mortality.vercel.app/) |
 | Food-borne Outbreaks | Using ARIMA & ETS to predict food-borne outbreaks | [FBO](https://github.com/temidataspot/food-illness-prediction) | [![WebApp](https://img.shields.io/badge/Web%20App-R%20Shiny-blue)](https://ye2qsj-temi.shinyapps.io/my_food_app/) |
 | Patient Readmission | Predicting admission risks in hospitals | [PAR](https://github.com/temidataspot/patient-readmission-risk) | [![WebApp](https://img.shields.io/badge/Web%20App-Streamlit-green)](https://patient-readmission-risks.streamlit.app/) |
 | Healthcare Staffing | Highlighting Staffing gaps & needs in different facilities | [SC](https://github.com/temidataspot/Data-Driven_Marketing_Strategy) | [![Dashboard](https://img.shields.io/badge/Dashboard-PowerBI-002050)](https://app.powerbi.com/view?r=eyJrIjoiNGRkYzZhZTYtMDE5Zi00ODkyLTk3ZTAtM2JkNjA5ZTgwNTg1IiwidCI6IjVhYjI0MzA0LWY3NWItNDlkZS04Y2RkLTAyZGMyOGNkNDU5YiJ9) |
