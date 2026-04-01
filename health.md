@@ -2,6 +2,8 @@
 
 | **Project Name** | **Description** | **Repository** | **Web App / Dashboard** |
 | :--- | :--- | :--- | :--- |
+| EGIS Simulation| Digital twin simulation for public health & social cares systems | [AEGIS](https://github.com/temidataspot/aegis) | [![Aegis](https://img.shields.io/badge/Aegis%20Simulator-004b50)](https://aegis-dev-phi.vercel.app/) |
+| England & Wales Mortality| UK's Mortality, Epidemic Analysis, & Future Predictions | [AEGIS](https://github.com/temidataspot/aegis) | [![WebApp](https://img.shields.io/badge/Vercel%20Dashboard-004b50)]() |
 | England & Wales Mortality| UK's Mortality, Epidemic Analysis, & Future Predictions | [Public Health Analysis](https://github.com/temidataspot/uk-mortality) | [![WebApp](https://img.shields.io/badge/Vercel%20Dashboard-004b50)](https://uk-mortality.vercel.app/) [![WebApp](https://img.shields.io/badge/R%20Shiny%20Dashboard-004753)](https://os2u1c-prisca-joks.shinyapps.io/dashboard/) |
 | Food-borne Outbreaks | Using ARIMA & ETS to predict food-borne outbreaks | [FBO](https://github.com/temidataspot/food-illness-prediction) | [![WebApp](https://img.shields.io/badge/Web%20App-R%20Shiny-blue)](https://ye2qsj-temi.shinyapps.io/my_food_app/) |
 | Patient Readmission | Predicting admission risks in hospitals | [PAR](https://github.com/temidataspot/patient-readmission-risk) | [![WebApp](https://img.shields.io/badge/Web%20App-Streamlit-green)](https://patient-readmission-risks.streamlit.app/) |
