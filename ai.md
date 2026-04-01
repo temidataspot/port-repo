@@ -1,4 +1,4 @@
-## Artificial Intelligence Projects                                                                                               
+## Artificial Intelligence & Automation                                                                                         
 
 | **App/Project Name** | **Description** | **Repository** | **Web App** |
 | :--- | :--- | :--- | :--- |
