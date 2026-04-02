@@ -1,8 +1,10 @@
 ## Commercial Operations                                                                                      
 *Click to check out AI repo* → [![AI](https://img.shields.io/badge/Artificial%20Intelligence-250e14)](https://github.com/temidataspot/port-repo/blob/main/ai.md)
 
+
 | **Project Name** | **Description** | **Repository** | **Details, Apps, Dashboards** |
 | :--- | :--- | :--- | :--- |
+| Priscilla | Customer & Marketing Intelligence Automation | [Priscilla.ai](https://github.com/temidataspot/priscilla.ai) | [![Priscilla.ai](https://img.shields.io/badge/Priscilla.ai-660033)](https://priscilla-dev.web.app/) |
 | Superstore | Customer Segmentation (RFM), LTV & Cohort-Retention | [Superstore](https://github.com/temidataspot/superstore) | [![Streamlit](https://img.shields.io/badge/Superstore%20Dashboard-147b2b)](https://temidataspot.github.io/superstore-dashboard/) |
 | Telco | Predicting churn rate | [Telco Churn](https://github.com/temidataspot/telco) | [![Streamlit](https://img.shields.io/badge/Streamlit%20Dashboard-5c0001)](https://telcos.streamlit.app/) [![React](https://img.shields.io/badge/React%20Dashboard-261318)](https://telco-hazel.vercel.app/) |
 | Rossman II | In-Sample Prediction Pipeline | [RossmanII](https://github.com/temidataspot/rosmann-ii-prediction) | [![Project](https://img.shields.io/badge/Project%20Details-704905)](https://github.com/temidataspot/rosmann-ii-prediction/blob/main/README.md) |
